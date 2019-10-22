@@ -411,6 +411,17 @@ const response = [
         copy:
             'End 2019 with a party you’ll not soon forget! The Marina Bay Singapore Countdown returns, to usher in the new year with fireworks displays lighting up the night sky alongside a host of exciting activities on the streets.'
     }
+        {
+        name: 'Prague',
+        id: 37,
+        image: 'Prague.jpg',
+        dateFrom: 'May 2019',
+        dateTo: 'June 2019',
+        guests: 2,
+        category: 'Vacation',
+        copy:
+            'A plethora of history and amazing food and beer.'
+    }
 ]
 
 export default response
